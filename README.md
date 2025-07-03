@@ -95,6 +95,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ---
 
+[View Project PDF](Loan_Default_Prediction_Analysis.pdf)
+
 ## Conclusion
 
 This project demonstrates how machine learning can assist banks and financial institutions in identifying high-risk loan applicants. It covers a full data science lifecycle and can serve as a strong portfolio project for job applications in Data Analytics or Machine Learning roles.
